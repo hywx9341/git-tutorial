@@ -1,5 +1,3 @@
-#  Git教程
-
-
-
--feature-A
+# Git教程
+ - feature-A
+ - fix-B
